@@ -9,4 +9,6 @@ Collect data from a public website using Python and analyze it.
 - BeautifulSoup
 - pandas
 
+## Status
+Not Finished
 
