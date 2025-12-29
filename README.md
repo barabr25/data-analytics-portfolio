@@ -26,4 +26,4 @@ Each folder represents a standalone project with its own code, data, and documen
 
 ## Goal
 
-This portfolio is part of my preparation for **Data Analyst internships**, showcasing hands-on projects and real data workflows.
+This portfolio is part of my preparation for **Data Science internships**, showcasing hands-on projects and real data workflows.
