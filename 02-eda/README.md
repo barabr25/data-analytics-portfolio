@@ -28,8 +28,13 @@ The goal is to understand pricing, ratings, and data quality before further anal
 - `books.csv` – Dataset used
 - `requirements.txt` – Python dependencies
 
-## Skills Demonstrated
-- Data cleaning
-- Exploratory data analysis
-- Data visualization
-- Python analytics workflow
+## Exploratory Data Analysis
+
+This analysis explores scraped book pricing data to understand price distribution and variability.
+
+### Key Findings
+- Book prices range from approximately £14 to £57
+- The distribution is slightly right-skewed
+- No missing values were found after cleaning
+- The cleaned dataset is suitable for SQL analysis and dashboard visualization
+
