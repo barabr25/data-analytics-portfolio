@@ -22,3 +22,6 @@ This section uses SQL to analyze cleaned book pricing data that was collected th
 ### Purpose
 The SQL analysis demonstrates the ability to structure data into relational tables and perform aggregations, filtering, and ranking queries. The results from this analysis support later dashboard creation and machine learning modeling.
 
+Note: SQL queries are provided in `analysis.sql`. The SQLite database (`books.db`) was used for local execution.
+
+
